@@ -1,0 +1,13 @@
+body {
+    font-family:Georgia, serif;
+    background-color: red;
+}
+
+h1 {
+    background-color: chartreuse;
+}
+
+li {
+    background-color: lightseagreen;
+    font-size: 24px;
+}
