@@ -48,6 +48,7 @@ ul, ol {
     padding: 5% 5%;
     margin: 0% auto;
     max-width: 1000px;  
+    list-style-position: inside;
 }
 
 li {
@@ -55,5 +56,8 @@ li {
     font-size: 24px;
     border: 2px rgb(192, 232, 255) solid;
     padding: 8px;
+}
+
+ul li {
     display: block;
 }
