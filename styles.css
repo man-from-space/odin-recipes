@@ -5,6 +5,8 @@ body {
 
 img {
     display: block;
+    height: auto;
+    width: 75%;
     margin: 0px auto;
 }
 
